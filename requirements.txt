@@ -1,0 +1,8 @@
+beautifulsoup4==4.7.1
+brotlipy==0.7.0
+bs4==0.0.1
+cffi==1.11.5
+pycparser==2.19
+six==1.12.0
+soupsieve==1.7.1
+warcio==1.6.3
